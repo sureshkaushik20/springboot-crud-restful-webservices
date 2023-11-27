@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringbootCrudRestfulWebservicesApplication {
 
 	public static void main(String[] args) {
+		System.out.println("OK");
 		SpringApplication.run(SpringbootCrudRestfulWebservicesApplication.class, args);
+
 	}
 
 }
